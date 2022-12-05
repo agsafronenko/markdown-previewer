@@ -62,7 +62,7 @@ class App extends React.Component {
             <div id="preview" dangerouslySetInnerHTML={this.convert()} />
           </div>
         </div>
-        <footer>This project was build using: HTML, CSS, JavaScript, React, jQuery, Bootstrap and SASS</footer>
+        <footer>This project was created using: HTML, CSS, JavaScript, React, jQuery, Bootstrap and SASS</footer>
       </>
     );
   }
